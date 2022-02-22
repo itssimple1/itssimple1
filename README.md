@@ -17,7 +17,7 @@
 
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:voko.aleksey@gmail.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/itssimple1)
-[<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="50">](https://t.me/oldcodersclub)
+
 
 
 
@@ -35,9 +35,9 @@
 [<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
 
 [![wakatime](https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social)](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
-[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/itssimple1?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/Aleksey-Voko?tab=repositories&q=&type=&language=&sort=stargazers)
-[<img alt="GitHub followers" src="https://img.shields.io/github/followers/itssimple1?&logoColor=red&style=social">](https://github.com/Aleksey-Voko?tab=followers)
-[<img alt="GitHub forks" src="https://img.shields.io/github/forks/itssimple1/TranslatorSelenium?logoColor=red&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/network/members)
+[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/itssimple1?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/itssimple1?tab=repositories&q=&type=&language=&sort=stargazers)
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/itssimple1?&logoColor=red&style=social">](https://github.com/itssimple1?tab=followers)
+[<img alt="GitHub forks" src="https://img.shields.io/github/forks/itssimple1/TranslatorSelenium?logoColor=red&style=social">](https://github.com/itssimple1/TranslatorSelenium/network/members)
 
 ------
 
